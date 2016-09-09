@@ -1,4 +1,6 @@
 package 'tmux'
+package 'lvm2'
+package 'xfsprogs.x86_64'
 
 package 'libcgroup'
 
